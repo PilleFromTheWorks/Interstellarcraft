@@ -1,0 +1,20 @@
+[
+{
+"modid": "Interstellarcraft",
+"name": "Interstellarcraft",
+"description": "A new minecraft mod, designed with lategame in mind.",
+"version": "0.0.1",
+"credits": "Created by Pille and ThePowerOfRa.",
+"logoFile": "",
+"mcversion": "1.8",
+"url": "http://www.interstellarcraft-mod.com",
+"updateUrl": "",
+"authorList": [ 
+    "Pille"
+],
+"parent":"",
+"dependencies": [
+],
+"screenshots": []
+}
+]
